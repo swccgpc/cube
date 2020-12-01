@@ -311,3 +311,285 @@
   "Admiral's Orders":
     - "I'll Take The Leader"
     - "Combined Fleet Action"
+
+"Objective Expansion":
+
+  "Agents In The Court Pack":
+    "Objective":
+      - "Agent's In The Court/No Love For The Empire"
+    "Systems":
+      - "Tatooine (Ep1)"
+    "Sites":
+      - "Tatooine: Hutt Trade Route (Desert)"
+      - "Tatooine: Lar's Moisture Farm (V)"
+      - "Jabba's Palace: Audience Chamber"
+    "Characters":
+      - "General Jar Jar"
+      - "Gungan General"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Effects":
+      - "Yarna d'al' Gargan (V)"
+      - "Strike Planning"
+
+  "City In The Clouds Pack":
+    "Objective":
+      - "City In The Clouds/You Truly Belong Here With Us"
+    "Systems":
+      - "Bespin"
+      - "Cloud City: Upper Plaza Corridor"
+      - "Cloud City: West Gallery"
+      - "Cloud City: Platform 327 (Docking Bay)"
+      - "Cloud City: Guest Quarters"
+    "Characters":
+      - "Pucumir Thryss"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+      - "Path Of Least Resistance"
+      - "Path Of Least Resistance"
+
+  "Diplomatic Mission Pack":
+    "Objective":
+      - "Diplomatic Mission To Alderaan/Aweakness Can Be Found"
+    "Systems":
+      - "Tatooine (Ep1)"
+      - "Tantive IV (V)"
+      - "Alderaan"
+      - "Chandrila"
+    "Sites":
+      - "Tatooine: Dune Sea"
+    "Characters":
+      - "R2-D2 & C-3PO"
+      - "Senator Mon Mothma"
+    "Effects":
+      - "Stolen Data Tapes"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+
+  "Echo Base Operations Pack":
+    "Objective":
+      - "Hoth"
+    "Systems":
+      - "Hoth: Main Power Generators (V)"
+      - "Hoth: North Ridge"
+      - "Hoth: Echo Docking Bay"
+      - "Hoth: Echo Command Center (War Room)"
+      - "Hoth: Echo Corridor"
+    "Interrupts":
+      - "Careful Planning (V)"
+    "Effects":
+      - "A New Secret Base"
+      - "Echo Base Operations"
+    "Characters":
+      - "General Carlist Reeikan (V)"
+
+  "Hidden Base Pack":
+    "Objective":
+      - "Hidden Base/ Systems Will Slip Through Your Fingers"
+    "Systems":
+      - "Rendezvous Point"
+      - "Kamino"
+      - "Tatooine (Ep1)"
+      - "Nar Shaddaa"
+      - "Endor"
+      - "Anoat (V)"
+      - "Anoat (V)"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Effects":
+      - "A New Secret Base (V)"
+
+  "He Is The Chosen One Pack":
+    "Objective":
+      - "He Is The Chosen One/He Will Bring Balance"
+    "Systems":
+      - "Coruscant: Jedi Council Chambers"
+    "Sites":
+      - "Endor: Ewok Village (V)"
+      - "Dagobah: Yoda's Hut"
+    "Effects":
+      - "Prophecy Of The Force"
+      - "I Feel The Conflict"
+      - "Twilight Is Upon Me (V)"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Characters":
+      - "Yoda, Master Of The Force (V)"
+      - "Anakin Skywalker (V)"
+
+  "no Idea Pack":
+    "Objective":
+      - "They Have No Idea We're Coming/Until We Win, Or The Chances Are Spent"
+    "Systems":
+      - "Scarif"
+    "Sites":
+      - "Scarif: Data Vault"
+      - "Yavin 4: Massassi War Room (V)"
+      - "Scarif: Landing Pad Nine (Docking Bay)"
+      - "Scarif: Beach"
+    "Effects":
+      - "Stardust"
+      - "Make Ten Men Feel Like A Hundred"
+    "Characters":
+      - "Rebel Trooper Reinforcements"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+
+  "Old Allies Pack":
+    "Objective":
+      - "Old Allies/We Need Your Help"
+    "Systems":
+      - "Jakku"
+      - "Jakku: Niima Outpost Shipyard"
+      - "The Falcon, Junkyard Garbage/The Falcon, Junkyard Garbage"
+      - "Jakku: Starship Graveyard"
+      - "Jakku: Tuanul Village"
+      - "Jakku: Rey's Encampment"
+    "Characters":
+      - "Rey"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Effects":
+      - "A Brave Resistance"
+
+  "Rebel Strike Team Pack":
+    "Objective":
+      - "Rebel Strike Team/Garrison Destroyed"
+    "Systems":
+      - "Endor (V)"
+      - "Endor: Rebel Landing Site"
+      - "Endor: Bunker (V)"
+      - "Endor: Back Door"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+      - "Throw Me Another Charge"
+    "Effects":
+      - "The Shield Is Down (V)"
+    "Weapons":
+      - "Explosive Charge"
+    "Epic Event":
+      - "Deactivate The Shield Generator"
+
+  "profit Pack":
+    "Objective":
+      - "You Can Profit By This.../Or Be Destroyed"
+    "Systems":
+      - "Tatooine (Ep1)"
+    "Sites":
+      - "Tatooine: Jabba's Palace"
+      - "Jabba's Palace: Audience Chamber"
+      - "Naboo: Boss Nass' Chambers"
+    "Characters":
+      - "Han (V)"
+      - "Sai'torr Kal Fas (V)"
+    "Interrupts":
+      - "Rendezvous Point On Tatooine (V)"
+    "Effects":
+      - "Seeking An Audience (V)"
+    "Weapons":
+      - "Han's Heavy Blaster Pistol (V)"
+
+  "Quiet Mining Colony Pack":
+    "Objective":
+      - "Quiet Mining Colony/Independent Operation"
+    "Systems":
+      - "Bespin"
+    "Sites":
+      - "Cloud City: Guest Quarters"
+      - "Cloud City: Platform 327 (Docking Bay)"
+      - "Cloud City: North Corridor"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Effects":
+      - "Keeping The Empire Out Forever"
+      - "Beldon's Eye & All My Urchins"
+    "Characters":
+      - "Harc Seff (V)"
+    "Starships":
+      - "Overseer"
+
+  "There Is Good In Him Pack":
+    "Objective":
+      - "There Is Good In Him/I Can Save Him"
+    "Sites":
+      - "Endor: Chief Chirpa's Hut"
+      - "Endor: Landing Platform (Docking Bay)"
+      - "Home One: Docking Bay"
+    "Characters":
+      - "Luke Skywalker, Rebel Scout (V)"
+    "Weapons":
+      - "Luke's Lightsaber"
+    "Effects":
+      - "I Feel The Conflict"
+      - "Like My Father Before Me"
+      - "Insurrection & Aim High"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+
+  "Throne Room Mains Pack":
+    "Objective":
+      - "Yavin 4: Massassi Throne Room"
+    "Systems":
+      - "Naboo: Boss Nass' Chambers"
+      - "Naboo: Battle Plains"
+      - "Coruscant: Jedi Council Chambers"
+    "Effects":
+      - "Anger, Fear, Aggression (V)"
+    "Characters":
+      - "Luke With Lightsaber"
+    "Interrupts":
+      - "Don't Tread On Me (V)"
+      - "Speak With The Jedi Council"
+      - "Speak With The Jedi Council"
+      - "Hear Me Baby, Hold Together (V)"
+    "Defensive Shields":
+      - "A Tragedy Has Occurred"
+      - "Simple Tricks And Nonsense"
+      - "There Is Another"
+      - "Clumbsy And Stupid"
+      - "Don't Do That Again (V)"
+      - "Affect Mind"
+      - "Goldenrod"
+      - "Wise Advise"
+      - "Ultimatum"
+      - "Aim High"
+      - "Do, Or Do Not"
+      - "The Republic No Longer Functions"
+      - "Only Jedi Carry That Weapon"
+      - "Your Insight Serves You Well (V)"
+      - "Jabba's Prize (V)"
+
+  "Watch Your Step":
+    "Objective":
+      - "Watch Your Step/This Place Can Get A Little Rough"
+    "Systems":
+      - "Kessel (V)"
+      - "Corellia (V)"
+    "Sites":
+      - "Tatooine (Ep1)"
+      - "Tatooine: Cantina"
+      - "Tatooine: Docking Bay 94"
+    "Characters":
+      - "Han... Solo"
+    "Interrupts":
+      - "Heading For The Medical Frigate"
+    "Effects":
+      - "Squadron Assignments"
+      - "Kessel Run (V)"
+
+  "Yavin 4 Base Operations Pack":
+    "Objective":
+      - "Yavin 4 Base Operations/The Time To Fight Is Now"
+    "Systems":
+      - "Yavin 4 (V)"
+      - "Jakku"
+      - "Mon Calamari"
+    "Sites":
+      - "Yavin 4: Massassi War Room (V)"
+    "Effects":
+      - "Haven"
+      - "Restore Freedom To The Galaxy"
+      - "Heading For The Medical Frigate"
+      - "Squadron Assignments"
+      - "Commander Vanden Willard (V)"
+

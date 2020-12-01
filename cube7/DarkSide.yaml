@@ -319,3 +319,293 @@
   "Admiral's Orders":
     - "Battle Deployment"
     - "Black Sun Fleet"
+
+"Objective Expansion Packs":
+
+"Bring Him Before Me":
+  "Objective":
+    - "Bring Him Before Me/Take Your Father's Place"
+  "Sites":
+    - "Death Star II: Throne Room"
+    - "Endor: Forest Clearing"
+    - "Mustafar: Vader's Castle"
+  "Interrupts":
+    - "Slip Sliding Away (V)"
+  "Characters":
+    - "Emperor Palpatine"
+    - "Darth Vader, The Emperor's Enforcer"
+  "Effects":
+    - "Emperor's Power"
+    - "Your Destiny"
+    - "Insignificant Rebellion"
+
+"Coruscant Crv":
+  "Systems":
+    - "Coruscant (SE)"
+  "Sites":
+    - "Coruscant: Xizor's Palace"
+    - "Xizor's Palace Uplink Station"
+    - "Xizor's Palace: Sewers"
+  "Characters":
+    - "Aurra Sing With Blaster Rifle"
+  "Interrupts":
+    - "Combat Readiness (V)"
+    - "Masterful Move & Endor Occupation"
+  "Effects":
+    - "Battle Order & First Strike"
+    - "Crush The Rebellion"
+    - "Knowledge And Defense (V)"
+  "Defensive Shields":
+    - "A Useless Gesture (V)"
+    - "Allegations Of Corruption"
+    - "Come Here You Big Coward"
+    - "Do They Have A Code Clearance?"
+    - "Failure At The Cave"
+    - "Fanfare (V)"
+    - "I Find Your Lack Of Faith Disturbing"
+    - "Imperial Detention"
+    - "Oppressive Enforcement"
+    - "Resistance"
+    - "Secret Plans"
+    - "There Is No Try"
+    - "Vote Of No Confidence"
+    - "Weapon Of A Sith"
+    - "You Cannot Hide Forever (V)"
+
+
+"Carbon Chamber Testing":
+  "Objective":
+    - "Carbon Chamber Testing/My Favorite Decoration"
+  "Sites":
+    - "Cloud City: Carbonite Chamber"
+    - "Could City: Security Tower (V)"
+    - "Jabba's Palace: Dungeon"
+    - "Jabba's Palace: Audience Chamber"
+  "Devices":
+    - "Carbonite Chamber Console (V)"
+  "Interrupts":
+    - "Any Methods Necessary"
+  "Effects":
+    - "Despair (V)"
+  "Characters":
+    - "IG-88 (V)"
+    - "Jabba's Prize"
+
+"Court Of The Vile Gangster":
+  "Objective":
+    - "Court Of The Vile Gangster/I Shall Enjoy Watching You Die"
+  "Sites":
+    - "Jabba's Palace: Audience Chamber"
+    - "Tatooine: Great Pit Of Carkoon"
+    - "Jabba's Palace: Dungeon"
+    - "Coruscant: Docking Bay (SE)"
+  "Characters":
+    - "Jabba The Hutt (V)"
+  "Systems":
+    - "Nal Hutta"
+  "Interrupts":
+    - "Prepared Defenses"
+  "Effects":
+    - "Scum And Villainy"
+    - "Scum And Villainy"
+
+"Endor Operations":
+  "Objective":
+    - "Endor Operations/Imperial Garrison"
+  "Systems":
+    - "Endor"
+    - "Fondor"
+  "Sites":
+    - "Endor: Bunker"
+    - "Endor: Landing Platform"
+    - "Endor: Forest Clearing"
+  "Effects":
+    - "Establish Secret Base (V)"
+    - "Ominous Rumors"
+  "Interrupts":
+    - "Cold Feet (V)"
+    - "Prepared Defenses"
+
+"Hunt Down And Destroy The Jedi":
+  "Objective":
+    - "Hunt Down And Destroy The Jedi/Their Fire Has Gone Out Of The Universe"
+  "Sites":
+    - "Executor: Holotheater"
+    - "Executor: Meditation Chamber"
+    - "Cloud City: Downtown Plaza"
+    - "Mustafar: Vader's Castle"
+  "Effects":
+    - "Visage Of The Emperor"
+    - "I Am Your Father (V)"
+  "Weapons":
+    - "Vader's Lightsaber"
+  "Characters":
+    - "Lord Vader"
+  "Interrupts":
+    - "Prepared Defenses"
+
+"Hunt Down And Destroy The Jedi (v)":
+  "Objective":
+    - "Hunt Down And Destroy The Jedi (V)/Their Fire Has Gone Out Of The Universe (V)"
+  "Sites":
+    - "Mustafar: Vader's Castle"
+    - "Cloud City: Upper Walkway"
+    - "Malachor: Sith Temple Entrance"
+    - "Malachor: Sith Temple Upper Chamber"
+  "Effects":
+    - "Visage Of The Emperor (V)"
+    - "The Dark Path (V)"
+  "Interrupts":
+    - "Slip Sliding Away (V)"
+    - "Far More Frightening Than Death"
+  "Characters":
+    - "Darth Vader With Lightsaber"
+
+"Hoth CRv":
+  "Systems":
+    - "Hoth"
+  "Sites":
+    - "Hoth: Ice Plains (V)"
+    - "Hoth: Defensive Perimeter"
+    - "Hoth: Echo Docking Bay"
+  "Interupts":
+    - "Combat Readiness (V)"
+  "Effects":
+    - "You May Start Your Landing"
+    - "Walker Garrison"
+    - "Prepare For A Surface Attack"
+  "Characters":
+    - "General Veers (V)"
+  "Vehicles":
+    - "Marquand In Blizzard 6"
+
+"Imperial Entanglements":
+  "Objective":
+    - "Imperial Entanglements/No One Will Stop Us This Time"
+  "Systems":
+    - "Tatooine (V)"
+  "Starships":
+    - "Devastator"
+  "Sites":
+    - "Tatooine: Desert Heart"
+    - "Tatooine: Mos Espa"
+    - "Tatooine: Docking Bay 94"
+    - "Executor: Docking Bay"
+  "Interrupts":
+    - "Prepared Defenses"
+  "Effects":
+    - "Imperial Arrest Order"
+    - "Imperial Enforcement"
+
+"I Want That Map":
+  "Objective":
+    - "I Want That Map/And Now You Will Give It To Me"
+  "Sites":
+    - "Jakku: Tuanul Village"
+    - "Jakku: Landing Site"
+    - "Starkiller Base: Forest"
+  "Systems":
+    - "Starkiller Base"
+  "Characters":
+    - "Kylo Ren"
+  "Interrupt":
+    - "You Know What I've Come For"
+  "Effects":
+    - "Bow To The First Order"
+    - "I Will Finish What You Started"
+  "Weapons":
+    - "Kylo Ren's Lightsaber"
+
+"Ralltiir Operations":
+  "Objective":
+    - "Ralltiir Operations (V)/In The Hands Of The Empire (V)"
+  "Systems":
+    - "Ralltiir"
+    - "Corulag"
+  "Sites":
+    - "Spaceport Docking Bay"
+    - "Spaceport Street"
+    - "Spaceport Prefect's Office"
+    - "Spaceport City"
+  "Interrupts":
+    - "Prepared Defenses"
+  "Effects":
+    - "Insignificant Rebellion (V)"
+  "Characters":
+    - "Vane"
+
+"Shadow Collective":
+  "Objective":
+    - "Shadow Collective/You Know Who I Answer To"
+  "Sites":
+    - "Dathomir: Maul's Chambers"
+    - "First Light: Bar"
+    - "First Light: Dryden's Study"
+    - "First Light: Reception Area"
+  "Characters":
+    - "Maul"
+    - "Dryden Vos"
+  "Interrupts":
+    - "Slip Sliding Away (V)"
+    - "A Lawless Time"
+  "Effects":
+    - "Quietly Observing (V)"
+
+"Set Your Course For Alderaan":
+  "Objective":
+    - "Set Your Course For Alderaan/The Ultimate Power"
+    - "In The Universe"
+  "Systems":
+    - "Death Star"
+    - "Jedha"
+  "Sites":
+    - "Death Star: Docking Bay 327"
+    - "Jedha: Jedha City"
+    - "Death Star: War Room (V)"
+  "Effects":
+    - "An Inkling Of Its Destructive Potential"
+  "Characters":
+    - "Krennic, Death Star Commandant"
+  "Weapons":
+    - "Superlaser"
+  "Interrupts":
+    - "Operational As Planned (V)"
+
+"Twin Suns":
+  "Objective":
+    - "Twin Suns Of Tatooine/Well Trained In The Jedi Arts"
+  "Systems":
+    - "Tatooine (Prem)"
+  "Sites":
+    - "Tatooine: Mos Eisley"
+    - "Tatooine: Lar's Moisture Farm"
+    - "Tatooine: Desert Heart"
+  "Characters":
+    - "Emperor Palpatine"
+  "Interrupts":
+    - "Force Lightning"
+    - "I Have You Now"
+    - "According To My Design"
+  "Effects":
+    - "Tatooine Occupation"
+
+"Watto":
+  "Objective":
+    - "No Money, No Parts, No Deal/You're A Slave?"
+  "Characters:
+    - "Watto"
+    - "Watto"
+    - "Watto"
+  "Systems":
+    - "Carida"
+  "Sites":
+    - "Blockade Flagship: Bridge"
+    - "Tatooine: Watto's Junkyard"
+    - "Tatooine: Mose Espa (V)"
+  "Interrupts":
+    - "Watto's Chance Cube"
+    - "Prepared Defenses"
+
+
+
+
